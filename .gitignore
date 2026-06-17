@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+developers.json
+enriched_developers.json
+ranked_developers.json
+usernames.txt
+
+# Database
+*.db
+
+# Logs
+*.log
